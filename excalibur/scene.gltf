@@ -129,13 +129,13 @@
   ],
   "images": [
     {
-      "uri": "ar/excalibur/images/Swordd_metallicRoughness.png"
+      "uri": "Swordd_metallicRoughness.png"
     },
     {
-      "uri": "ar/excalibur/images/Swordd_normal.jpeg"
+      "uri": "Swordd_normal.jpeg"
     },
     {
-      "uri": "ar/excalibur/images/Swordd_baseColor.jpeg"
+      "uri": "Swordd_baseColor.jpeg"
     }
   ],
   "materials": [
