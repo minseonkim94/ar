@@ -129,13 +129,13 @@
   ],
   "images": [
     {
-      "uri": "textures/RootNode_normal.png"
+      "uri": "RootNode_normal.png"
     },
     {
-      "uri": "textures/RootNode_metallicRoughness.png"
+      "uri": "RootNode_metallicRoughness.png"
     },
     {
-      "uri": "textures/RootNode_baseColor.png"
+      "uri": "RootNode_baseColor.png"
     }
   ],
   "materials": [
