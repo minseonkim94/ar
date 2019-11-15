@@ -129,13 +129,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Swordd_metallicRoughness.png"
+      "uri": "images/Swordd_metallicRoughness.png"
     },
     {
-      "uri": "textures/Swordd_normal.jpeg"
+      "uri": "images/Swordd_normal.jpeg"
     },
     {
-      "uri": "textures/Swordd_baseColor.jpeg"
+      "uri": "images/Swordd_baseColor.jpeg"
     }
   ],
   "materials": [
